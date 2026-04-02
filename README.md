@@ -23,6 +23,6 @@ I create dashboards, clean and analyze data, and provide actionable insights.
 - Visualized KPIs, trends, and product performance
 
 ## Contact
-- Email: sumitkrkumar75.com
+- Email: sumitkrkumar75@.com
 - LinkedIn:[ [LinkedIn Profile](https://www.linkedin.com/in/sumit)](https://www.linkedin.com/in/sumit-kumar-b240bb322)
 - Mobile: +91 7562941029
