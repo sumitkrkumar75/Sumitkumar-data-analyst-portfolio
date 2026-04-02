@@ -1,4 +1,4 @@
-# Sumit Kumar - Data Analyst Portfolio
+ 🚀 Sumit Kumar - Data Analyst
 
 Hi! I am Sumit Kumar, a Data Analyst skilled in **Advanced Excel, SQL, and Power BI**.  
 I create dashboards, clean and analyze data, and provide actionable insights.
@@ -25,3 +25,4 @@ I create dashboards, clean and analyze data, and provide actionable insights.
 ## Contact
 - Email: sumitkrkumar75.com
 - LinkedIn:[ [LinkedIn Profile](https://www.linkedin.com/in/sumit)](https://www.linkedin.com/in/sumit-kumar-b240bb322)
+- Mobile: +91 7562941029
